@@ -6,9 +6,8 @@ Goal: make repetitive workspace setup fast, safe, and predictable.
 
 Built by Drona Gurjar.
 
-[![CI](https://github.com/drona/dirmaker/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/dirmaker/actions/workflows/ci.yml)
-[![Version](https://img.shields.io/pypi/v/dirmaker?label=Version)](https://pypi.org/project/dirmaker/#history)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/dirmaker?label=License)](LICENSE)
+[![CI](https://github.com/dronagurjar02/dirmaker/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/dirmaker/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/dronagurjar02/dirmaker?label=License)](LICENSE)
 
 
 ---
